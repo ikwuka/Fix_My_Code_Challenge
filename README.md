@@ -11,3 +11,5 @@ The available codes were written in various programming languages; encompassing 
 ## Acknowledgement
 
 This project was completed as a part of the ALX Software Engineering programme curriculum. Visit [this link](https://www.alxafrica.com) to learn more about ALX Africa.
+
+--------------------------
